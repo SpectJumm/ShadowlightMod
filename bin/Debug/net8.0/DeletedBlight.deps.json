@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DeletedBlight/1.0.0": {
+        "dependencies": {
+          "Krafs.Publicizer": "2.3.0",
+          "tModLoader": "2026.5.3",
+          "Daybreak": "1.0.0.0"
+        },
+        "runtime": {
+          "DeletedBlight.dll": {}
+        }
+      },
+      "Krafs.Publicizer/2.3.0": {},
+      "tModLoader/2026.5.3": {},
+      "Daybreak/1.0.0.0": {
+        "runtime": {
+          "Daybreak.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeletedBlight/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Krafs.Publicizer/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DjktTgctwxUMhMkWKrRECer3LR1lHzanCOlE4mpinAiY8SfWJq4DG/QitP5h1A+WBjyWHzQSOG+204i3VpO1FA==",
+      "path": "krafs.publicizer/2.3.0",
+      "hashPath": "krafs.publicizer.2.3.0.nupkg.sha512"
+    },
+    "tModLoader/2026.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S47kmA8D5+ahRl27fdxuKc7JbFgII3t5Ul5yYuFz6OLl1z2RkVB6A64RRZdkBTnBFsYf07EscNY2nAN4M4lEKQ==",
+      "path": "tmodloader/2026.5.3",
+      "hashPath": "tmodloader.2026.5.3.nupkg.sha512"
+    },
+    "Daybreak/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

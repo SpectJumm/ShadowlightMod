@@ -1,0 +1,2 @@
+namespace ShadowlightMod.Sounds;
+

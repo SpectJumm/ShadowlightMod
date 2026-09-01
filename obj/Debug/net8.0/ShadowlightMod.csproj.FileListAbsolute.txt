@@ -1,0 +1,15 @@
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/bin/Debug/net8.0/ShadowlightMod.deps.json
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/bin/Debug/net8.0/ShadowlightMod.dll
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/bin/Debug/net8.0/ShadowlightMod.pdb
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/bin/Debug/net8.0/Daybreak.dll
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.csproj.AssemblyReference.cache
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.GeneratedMSBuildEditorConfig.editorconfig
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.AssemblyInfoInputs.cache
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.AssemblyInfo.cs
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.csproj.CoreCompileInputs.cache
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.sourcelink.json
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.csproj.CopyComplete
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.dll
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/refint/ShadowlightMod.dll
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.pdb
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ref/ShadowlightMod.dll

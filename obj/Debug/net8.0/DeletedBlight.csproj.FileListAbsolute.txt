@@ -1,0 +1,15 @@
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/bin/Debug/net8.0/DeletedBlight.deps.json
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/bin/Debug/net8.0/DeletedBlight.dll
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/bin/Debug/net8.0/DeletedBlight.pdb
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/bin/Debug/net8.0/Daybreak.dll
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/obj/Debug/net8.0/DeletedBlight.csproj.AssemblyReference.cache
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/obj/Debug/net8.0/DeletedBlight.GeneratedMSBuildEditorConfig.editorconfig
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/obj/Debug/net8.0/DeletedBlight.AssemblyInfoInputs.cache
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/obj/Debug/net8.0/DeletedBlight.AssemblyInfo.cs
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/obj/Debug/net8.0/DeletedBlight.csproj.CoreCompileInputs.cache
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/obj/Debug/net8.0/DeletedBlight.sourcelink.json
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/obj/Debug/net8.0/DeletedBlight.csproj.CopyComplete
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/obj/Debug/net8.0/DeletedBlight.dll
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/obj/Debug/net8.0/refint/DeletedBlight.dll
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/obj/Debug/net8.0/DeletedBlight.pdb
+/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/DeletedBlight/obj/Debug/net8.0/ref/DeletedBlight.dll

@@ -1,0 +1,8 @@
+displayName = ShadowlightMod (Pre-Alpha)
+author = SpectJumm
+version = 0.0.2
+buildIgnore = .vscode\*, .git\*
+modReferences = Daybreak
+hideCode = false
+hideResources = false
+includeSource = true
