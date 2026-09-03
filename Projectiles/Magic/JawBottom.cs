@@ -40,13 +40,14 @@ namespace ShadowlightMod.Projectiles.Magic
                 FangsClose = false; // Projectile can't do damage yet
                 Projectile.velocity.Y *= 0.9f; // Go in one direction and decelerate
             }
-            else if (FangsOpen == 20 && !FangsClose)
+            else if (FangsOpen == 20)
+            {
+                Projectile.velocity.Y *= -1f; // Reverse direction
+                // Wait to turn on FangsClose until the projectile actually starts moving
+            }
+            else if (FangsOpen >= 25 && !FangsClose)
             {
                 FangsClose = true; // Turning on FangsClose makes the projectile able to do damage
-                Projectile.velocity.Y *= -1f; // Reverse direction
-            }
-            else
-            {
                 Projectile.velocity.Y *= 1.12f; // Slam down in the other direction!
             }
             if (FangsOpen > 46)
