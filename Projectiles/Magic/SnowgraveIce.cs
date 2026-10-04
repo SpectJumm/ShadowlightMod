@@ -3,6 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+using ShadowlightMod.Tiles.Ores;
 
 namespace ShadowlightMod.Projectiles.Magic
 {
@@ -48,6 +49,8 @@ namespace ShadowlightMod.Projectiles.Magic
         public override void OnHitNPC(NPC target, NPC.HitInfo hit, int damageDone)
         {
             target.AddBuff(BuffID.Frostburn, 240); // Apply Frostburn debuff for 4 seconds
+            ModContent.GetInstance<HemmoriteOreSystem>().BlessWorldWithHemmoriteOre();
+
         }
         public override void OnKill(int timeLeft)
         {

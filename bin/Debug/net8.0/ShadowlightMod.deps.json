@@ -9,7 +9,7 @@
       "ShadowlightMod/1.0.0": {
         "dependencies": {
           "Krafs.Publicizer": "2.3.0",
-          "tModLoader": "2026.6.3.4",
+          "tModLoader": "2026.8.3",
           "Daybreak": "1.0.0.0"
         },
         "runtime": {
@@ -17,7 +17,7 @@
         }
       },
       "Krafs.Publicizer/2.3.0": {},
-      "tModLoader/2026.6.3.4": {},
+      "tModLoader/2026.8.3": {},
       "Daybreak/1.0.0.0": {
         "runtime": {
           "Daybreak.dll": {
@@ -41,12 +41,12 @@
       "path": "krafs.publicizer/2.3.0",
       "hashPath": "krafs.publicizer.2.3.0.nupkg.sha512"
     },
-    "tModLoader/2026.6.3.4": {
+    "tModLoader/2026.8.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-U/6jneGxUwztPqa0d6OTeZQe3WG+pNIK3eSJAc59ZAvAaRsaAXciyMxM4gT4iPD+Vr6/m6T/U7wxGKaitDFQhg==",
-      "path": "tmodloader/2026.6.3.4",
-      "hashPath": "tmodloader.2026.6.3.4.nupkg.sha512"
+      "sha512": "sha512-qYxiJAPW+tLZuDkz1a+KOZ54Dpd15VEJmdsTw7WwG8Hslnlgo6fH6UzFvuEmsyjb2Vo6xr8Y/LROa31wSuLbAw==",
+      "path": "tmodloader/2026.8.3",
+      "hashPath": "tmodloader.2026.8.3.nupkg.sha512"
     },
     "Daybreak/1.0.0.0": {
       "type": "reference",

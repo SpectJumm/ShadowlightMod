@@ -2,9 +2,8 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
-using Terraria.Graphics.Effects;
 using ShadowlightMod.Buffs;
-
+using ShadowlightMod.Tiles.Ores;
 namespace ShadowlightMod.Items
 {
     public class DebugStick : ModItem
