@@ -38,8 +38,7 @@ namespace ShadowlightMod
                 // Reference https://github.com/tModLoader/tModLoader/wiki/Expert-Shader-Guide if you get stuck.
 
                 Asset<Effect> chromaticAberration = Assets.Request<Effect>("Assets/AutoloadedEffects/Shaders/OverlayModifiers/ChromaticAberration");
-                // GameShaders.Misc.BindShader(ModContent.RarityType<BlightGreen>(), new MiscShaderData(chromaticAberration, "ChromaticAberration"));
-                // Commenting this code out because I'm too stupid to make it work. ;-;
+
                 GameShaders.Armor.BindShader(ModContent.ItemType<TestDye>(), new ArmorShaderData(chromaticAberration, "ChromaticAberration"));
                 Asset<Effect> anotherDye = Assets.Request<Effect>("Assets/AutoloadedEffects/Shaders/Dyes/AnotherDye");
                 GameShaders.Armor.BindShader(ModContent.ItemType<BSDye>(), new ArmorShaderData(anotherDye, "SomeBullshit"));
@@ -49,9 +48,13 @@ namespace ShadowlightMod
                 Filters.Scene["ShadowlightMod:FirstScreenShader"] = new Filter(new ScreenShaderData(FirstScreenShader, "FirstScreenShader"), EffectPriority.VeryHigh);
                 Filters.Scene["ShadowlightMod:FirstScreenShader"].GetShader().UseColor(Color.Blue); // controls tint color
                 Filters.Scene["ShadowlightMod:FirstScreenShader"].GetShader().UseOpacity(0.3f); // controls tint intensity
+
+                Asset<Effect> BWShader = Assets.Request<Effect>("Assets/AutoloadedEffects/Shaders/OverlayModifiers/BWShader");
+                Filters.Scene["ShadowlightMod:BWShader"] = new Filter(new ScreenShaderData(BWShader, "BWShader"), EffectPriority.VeryHigh);
+                Filters.Scene["ShadowlightMod:BWShader"].GetShader().UseOpacity(1.0f); // controls tint intensity
+                
             }
             #endregion Shaders
-            
         }
     }
 }

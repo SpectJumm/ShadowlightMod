@@ -2,6 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.Localization;
 using Terraria.ModLoader;
+using ShadowlightMod.Items.Materials;
 
 namespace ShadowlightMod.Items.Armor
 {
@@ -13,9 +14,8 @@ namespace ShadowlightMod.Items.Armor
 		public static readonly int moveSpeedBonus = 8;
 		public static readonly int lifeRegenBonus = 8;
 
-		public override LocalizedText Tooltip => base.Tooltip.WithFormatArgs(moveSpeedBonus, lifeRegenBonus);
-
-		public override void SetDefaults() {
+		public override void SetDefaults()
+		{
 			Item.width = 18; // Width of the item
 			Item.height = 18; // Height of the item
 			Item.value = Item.sellPrice(gold: 1); // How many coins the item is worth
@@ -23,18 +23,22 @@ namespace ShadowlightMod.Items.Armor
 			Item.defense = 24; // The amount of defense the item will give when equipped
 		}
 
-		public override void UpdateEquip(Player player) {
-			player.buffImmune[BuffID.OnFire] = true; // Make the player immune to Fire
-			player.allDamage += 0.17f;
-			player.moveSpeed += moveSpeedBonus / 100f;
+		public override void UpdateEquip(Player player)
+        {
+            player.buffImmune[BuffID.OnFire] = true; // Make the player immune to Fire
+            player.moveSpeed += moveSpeedBonus / 100f;
 			player.lifeRegen += lifeRegenBonus / 100;
 		}
 
-		// Please see Content/ExampleRecipes.cs for a detailed explanation of recipe creation.
-		/*public override void AddRecipes() {
-			CreateRecipe().AddIngredient<ExampleItem>()
-				.AddTile<Tiles.Furniture.ExampleWorkbench>()
-				.Register();
-		}*/
+        // Please see Content/ExampleRecipes.cs for a detailed explanation of recipe creation.
+
+        public override void AddRecipes()
+        {
+            CreateRecipe()
+                .AddIngredient(ModContent.ItemType<HemmoriteBar>(), 24)
+                .AddTile(TileID.LunarCraftingStation)
+                .Register();
+        }
+
 	}
 }

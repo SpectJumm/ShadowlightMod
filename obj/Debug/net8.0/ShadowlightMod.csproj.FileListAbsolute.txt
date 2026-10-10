@@ -13,3 +13,18 @@
 /home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/refint/ShadowlightMod.dll
 /home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.pdb
 /home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ref/ShadowlightMod.dll
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.csproj.AssemblyReference.cache
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.AssemblyInfoInputs.cache
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.AssemblyInfo.cs
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.csproj.CoreCompileInputs.cache
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.sourcelink.json
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.dll
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/refint/ShadowlightMod.dll
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ShadowlightMod.pdb
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/bin/Debug/net8.0/ShadowlightMod.deps.json
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/bin/Debug/net8.0/ShadowlightMod.dll
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/bin/Debug/net8.0/ShadowlightMod.pdb
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/bin/Debug/net8.0/Daybreak.dll
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/Shadowli.2B7E563B.Up2Date
+C:/Users/jonas/Documents/My Games/Terraria/tModLoader/ModSources/ShadowlightMod/obj/Debug/net8.0/ref/ShadowlightMod.dll

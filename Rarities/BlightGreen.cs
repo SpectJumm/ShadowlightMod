@@ -1,5 +1,6 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using Terraria.Graphics.Effects;
 using Terraria.ID;
 using Terraria.ModLoader;
 using ReLogic.Graphics;
@@ -7,6 +8,7 @@ using Terraria;
 using Terraria.UI.Chat;
 using Daybreak.Common.Features.Rarities;
 using Daybreak.Common.Rendering;
+using System;
 
 namespace ShadowlightMod.Rarities
 

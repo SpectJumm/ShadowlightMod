@@ -20,6 +20,9 @@ Projectiles: {
 	TrapperTapperFlail.DisplayName: Trapper Tapper Flail
 	MortonsForkProjectile.DisplayName: Morton's Fork
 	BioForceGunHoldout.DisplayName: Bio Force Gun
+	BubbleBombHoldout.DisplayName: Bubble Bomb Holdout
+	BubbleBombProjectile.DisplayName: Bubble Bomb Projectile
+	SlimePuppetClone.DisplayName: Slime Puppet Clone
 }
 
 NPCs: {
@@ -209,7 +212,17 @@ Items: {
 
 	BloodmongerWings: {
 		DisplayName: Bloodmonger Wings
-		Tooltip: "Allows you to offer your lifeforce in exchange for more flight time."
+		Tooltip: Allows you to offer your lifeforce in exchange for more flight time.
+	}
+
+	HemmoriteBar: {
+		DisplayName: Hemmorite Bar
+		Tooltip: ""
+	}
+
+	BubbleBomb: {
+		DisplayName: Bubble Bomb
+		Tooltip: ""
 	}
 }
 
@@ -242,5 +255,5 @@ Tiles: {
 
 WorldGen: {
 	HemmoriteOrePassMessage: Mods.ShadowlightMod.WorldGen.HemmoriteOrePassMessage
-	BlessedWithHemmoriteOreMessage: Mods.ShadowlightMod.WorldGen.BlessedWithHemmoriteOreMessage
+	BlessedWithHemmoriteOreMessage: Your world bleeds
 }
