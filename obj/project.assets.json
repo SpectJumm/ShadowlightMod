@@ -234,7 +234,7 @@
       ]
     },
     "tModLoader/2026.8.3": {
-      "sha512": "qYxiJAPW+tLZuDkz1a+KOZ54Dpd15VEJmdsTw7WwG8Hslnlgo6fH6UzFvuEmsyjb2Vo6xr8Y/LROa31wSuLbAw==",
+      "sha512": "cGmWECGDD4uiWCRL1nY55riOCCzh1eyGKD2nbq9pdKbbnNTbIGIyzFcjSIQZLv3Cn5v8dHCC8O54JL3BFpBHKg==",
       "type": "package",
       "path": "tmodloader/2026.8.3",
       "files": [
@@ -409,25 +409,25 @@
     ]
   },
   "packageFolders": {
-    "/home/spectjumm/.nuget/packages/": {}
+    "C:\\Users\\jonas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/ShadowlightMod.csproj",
+      "projectUniqueName": "C:\\Users\\jonas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ShadowlightMod\\ShadowlightMod.csproj",
       "projectName": "ShadowlightMod",
-      "projectPath": "/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/ShadowlightMod.csproj",
-      "packagesPath": "/home/spectjumm/.nuget/packages/",
-      "outputPath": "/home/spectjumm/.local/share/Terraria/tModLoader/ModSources/ShadowlightMod/obj/",
+      "projectPath": "C:\\Users\\jonas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ShadowlightMod\\ShadowlightMod.csproj",
+      "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jonas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ShadowlightMod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/spectjumm/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/home/spectjumm/.local/share/tml-build/feed/": {},
+        "C:\\Users\\jonas\\AppData\\Roaming\\tml-build\\feed\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -440,6 +440,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -475,7 +480,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.130/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

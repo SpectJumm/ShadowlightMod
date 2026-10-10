@@ -12,9 +12,9 @@ namespace ShadowlightMod.Buffs
         }
         public override void Update(Player player, ref int buffIndex)
         {
-            if (!Main.dedServ && !Filters.Scene["ShadowlightMod:FirstScreenShader"].IsActive())
+            if (!Main.dedServ && !Filters.Scene["ShadowlightMod:BWShader"].IsActive())
             {
-                Filters.Scene.Activate("ShadowlightMod:FirstScreenShader");
+                Filters.Scene.Activate("ShadowlightMod:BWShader");
             }
         }
     }

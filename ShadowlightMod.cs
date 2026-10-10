@@ -51,7 +51,6 @@ namespace ShadowlightMod
 
                 Asset<Effect> BWShader = Assets.Request<Effect>("Assets/AutoloadedEffects/Shaders/OverlayModifiers/BWShader");
                 Filters.Scene["ShadowlightMod:BWShader"] = new Filter(new ScreenShaderData(BWShader, "BWShader"), EffectPriority.VeryHigh);
-                Filters.Scene["ShadowlightMod:BWShader"].GetShader().UseOpacity(1.0f); // controls tint intensity
                 
             }
             #endregion Shaders

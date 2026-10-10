@@ -22,9 +22,8 @@ float2 uZoom;
 
 float4 BWShader(float4 sampleColor : COLOR, float2 coords : TEXCOORD0) : COLOR0
 {
-    float4 color = tex2D(uImage0, coords) * sampleColor;
-    float grayscale = dot(color.rgb, float3(0.299, 0.587, 0.114));
-    return float4(grayscale, grayscale, grayscale, color.a);
+    float4 color = tex2D(uImage0, coords);
+    // this doesn't work rn
 }
 
 technique Technique1
